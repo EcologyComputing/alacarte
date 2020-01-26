@@ -5,6 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: "(757) 287-6591"
+- type: heading
+  label: mjr@wedofood.com
+- type: heading
+  label: Michael J. Romaniw Chief Search Officer
+- type: heading
   label: Content
 - type: document
   path: content/about/info.md
